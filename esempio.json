@@ -29,8 +29,14 @@
 	  {
         "id": 5,
         "name": "Federico",
-        "surname": "Luciani",
+        "surname": "Farinella",
         "email": "federico@aulab.it"
+      },
+	  {
+        "id": 6,
+        "name": "Andrea",
+        "surname": "Farinella",
+        "email": "andrea@aulab.it"
       }
     ]
 }
